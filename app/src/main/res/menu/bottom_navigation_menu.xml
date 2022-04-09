@@ -13,8 +13,4 @@
         android:title="Search News"
         android:icon="@drawable/ic_search"/>
 
-    <item android:id="@+id/profileFragment"
-        android:title="Profile"
-        android:icon="@drawable/ic_profile"/>
-
 </menu>
